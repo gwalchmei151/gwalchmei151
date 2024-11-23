@@ -13,6 +13,7 @@ As a relative baby in the industry, my current objectives are to deepen my knowl
 |-----------------------------------------------|----------------------------|
 | Building an OSCP Active Directory Practice Lab | <a href="https://hackmd.io/@gwalchmei/SyB7bztlR">DerronC's AD Lab</a>|
 | Automation for Scanning and Enumeration | <a href="https://github.com/gwalchmei151/perseus-sh">SOC Pen Test Project</a>|
+| Deployment of ELK SIEM |<a href="https://github.com/gwalchmei151/project-elk-stack-1">SOC ELK Implementation</a>|
 
 ## Tools
 
